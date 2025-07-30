@@ -2,7 +2,7 @@
 
 A mobile-first e-commerce app built with React Native and Expo, featuring a clean architecture and modern development practices.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React Native** - Cross-platform mobile development
 - **Expo** - Development platform and toolchain
@@ -13,7 +13,7 @@ A mobile-first e-commerce app built with React Native and Expo, featuring a clea
 - **Zod** - Runtime type validation
 - **Lucide React Native** - Icon library
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -39,7 +39,7 @@ src/
 └── utils/              # Utility functions
 ```
 
-## 🔄 API Integration
+## API Integration
 
 The project uses the WooCommerce REST API for:
 
@@ -48,7 +48,7 @@ The project uses the WooCommerce REST API for:
 - Shopping cart operations
 - Product search functionality
 
-## 🧱 Architecture
+## Architecture
 
 - **Framework**: React Native with Expo
 - **Styling**: NativeWind (Tailwind CSS for React Native)
@@ -58,7 +58,7 @@ The project uses the WooCommerce REST API for:
 - **UI Components**: Custom components with shadcn/ui patterns
 - **Backend**: WordPress + WooCommerce (headless)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -105,9 +105,9 @@ pnpm ios
 pnpm web
 ```
 
-## 📱 Features
+## Features
 
-### ✅ **Implemented**
+### Implemented
 
 - **Product Catalog**: Browse products with infinite scroll and filtering
 - **Categories**: Hierarchical category navigation with expandable sections
@@ -116,14 +116,14 @@ pnpm web
 - **Performance**: Infinite scroll pagination and smart caching with TanStack Query
 - **Debug Tools**: Built-in network diagnostics and debug screens
 
-### 🚧 **In Development**
+### In Development
 
 - **Shopping Cart**: Add/remove items with optimistic updates
 - **Search**: Real-time product search functionality
 
-### 🔮 **Planned Features**
+### Planned Features
 
 - User authentication and profiles
 - Order history and tracking
 - Push notifications
-- Payment integration
+-
